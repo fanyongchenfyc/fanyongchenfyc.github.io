@@ -14,7 +14,7 @@ name                     : &name "FAN YONGCHEN"
 description              : &description "personal description"
 url                      : https://fanyongchenfyc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fanyongchenfyc/academicpages.github.io"
+repository               : "fanyongchenfyc/fanyongchenfyc.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -44,7 +44,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "fanyongchenfyc"
-  kaggle           : # Username  
+  kaggle           : # "silencefyc"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
